@@ -10,7 +10,7 @@ Tra le varie cose che ho fatto in questi anni, non posso non segnalare il fatto 
 
 ## ⚒ Principali attività
 - Consulente web marketing
-- Formatore e relatore agli eveti
+- Formatore e relatore agli eventi
 - SEO Specialist
 - Telegram Specialist
 - WordPress Specialist
