@@ -17,8 +17,8 @@ Tra le varie cose che ho fatto in questi anni, non posso non segnalare il fatto 
 
 ## 👥 Progetti
 - [InsiDevCode](https://www.insidevcode.eu/): progetto web dedicato al mondo della programmazione e della tecnologia
-- [InsiTelegram](https://insidetelegram.eu/): progetto web dedicato al mondo di Telegram, dove potete leggere le news del momento dedicate a questa applicazione, ma anche guide e trucchi su come usare al meglio tutto l'ecosistema Telegram.
-- [InsiBind](http://insidebind.eu/): un repository di bot, canali e gruppi Telegram. All'interno di questo portale potete trovare canali ufficiali e verificati nazionali e internazionali.
+- [InsideTelegram](https://insidetelegram.eu/): progetto web dedicato al mondo di Telegram, dove potete leggere le news del momento dedicate a questa applicazione, ma anche guide e trucchi su come usare al meglio tutto l'ecosistema Telegram.
+- [InsideBind](http://insidebind.eu/): un repository di bot, canali e gruppi Telegram. All'interno di questo portale potete trovare canali ufficiali e verificati nazionali e internazionali.
 - [2088](https://2088.it/blog/): sito personale dove racconto alcune cose sul mio lavoro, sui miei interventi pubblici e tutto quello che mi passa per la testa.
 
 ## 📚 Contributi
