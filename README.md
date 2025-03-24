@@ -18,15 +18,17 @@ Tra le varie cose che ho fatto in questi anni, non posso non segnalare il fatto 
 ## 👥 Progetti
 - [InsiDevCode](https://www.insidevcode.eu/): progetto web dedicato al mondo della programmazione e della tecnologia
 - [InsideTelegram](https://insidetelegram.eu/): progetto web dedicato al mondo di Telegram, dove potete leggere le news del momento dedicate a questa applicazione, ma anche guide e trucchi su come usare al meglio tutto l'ecosistema Telegram.
-- [InsideBind](http://insidebind.eu/): un repository di bot, canali e gruppi Telegram. All'interno di questo portale potete trovare canali ufficiali e verificati nazionali e internazionali.
+- [InsideBind](https://insidebind.insidetelegram.eu/): un repository di bot, canali e gruppi Telegram. All'interno di questo portale potete trovare canali ufficiali e verificati nazionali e internazionali.
 - [2088](https://2088.it/blog/): sito personale dove racconto alcune cose sul mio lavoro, sui miei interventi pubblici e tutto quello che mi passa per la testa.
 
 ## 📚 Contributi
-- [Digital marketing per lo sport: Strumenti e tecniche per la comunicazione sportiva  di Alessandra Ortenzi](https://books.google.it/books?isbn=8820380560)
-- [Facebook Marketing Pro: Strategie e azioni per fare business di Monia Taglienti](https://books.google.it/books?isbn=8820385023)
-- [Software e tool per il business di Bernardo Mannelli](https://www.google.it/books/edition/Software_e_tool_per_il_business_Dove_si/tkQ9zgEACAAJ?hl=it&kptab=overview)
+- [Digital marketing per lo sport: Strumenti e tecniche per la comunicazione sportiva  di Alessandra Ortenzi](https://www.google.it/books/edition/Digital_marketing_per_lo_sport/OpsqDwAAQBAJ?hl=it&gbpv=0)
+- [Facebook Marketing Pro: Strategie e azioni per fare business di Monia Taglienti](https://www.google.it/books/edition/_/HwMvtAEACAAJ?hl=it&kptab=overview)
+- [Software e tool per il business di Bernardo Mannelli](https://www.maggiolieditore.it/software-e-tool-per-il-business.html)
+- [Professione podcaster. Allena la voce scegli i giusti contenuti e strumenti e migliora il tuo personal branding di Alessandro Mazzù](https://www.darioflaccovio.it/web-marketing/1920-professione-podcaster-allena-la-voce-scegli-i-giusti-contenuti-e-strumenti-e-migliora-il-tuo-personal-branding.html=)
 
 ## 📝 Pubblicazioni
+- [Telegram. Manuale pratico operativo per Aziende – Liberi professionisti – PMI](https://amzn.eu/d/4Yfefdy)
 - [Google Ads: nozioni base](https://2088.it/google-ads-nozioni-base-2/)
 - [Canali Telegram per il tuo business](https://2088.it/canali-telegram-per-il-tuo-business-e-book/)
 
